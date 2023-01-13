@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Dev\Xerver\src\Main.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Xerver.vcxproj -> C:\Dev\Xerver\Debug\Xerver.exe

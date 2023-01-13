@@ -1,0 +1,1 @@
+C:\Dev\ServerTest\Release\ServerTest.exe
